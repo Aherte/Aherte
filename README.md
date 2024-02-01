@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet Eren Tekin</h1>
 <h3 align="center">A passionate Embedded Software Developer from Turkey</h3>
 
+![1686161122247](https://github.com/Aherte/Aherte/assets/55800601/60857298-f7ca-4ca7-aad2-ce9122bb30c7)
+
+
 - 🌱 I’m currently developing **low level sensor drivers and new startup ideas**
 
 - 📫 How to reach me **a.eren_tekin@hotmail.com**
