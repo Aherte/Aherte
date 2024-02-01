@@ -2,7 +2,7 @@
 ![602ba5f5d9c03](https://github.com/Aherte/Aherte/assets/55800601/4f1f513d-89e0-4e23-9516-d571b42ced05)
 
   
-Hi 👋, I'm Ahmet Eren Tekin</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Eren Tekin</h1>
 <h3 align="center">A passionate Embedded Software Developer from Turkey</h3>
 
 - 🌱 I’m currently developing **low level sensor drivers and new startup ideas**
