@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ahmet Eren Tekin</h1>
+<h1 align="center">![602ba5f5d9c03](https://github.com/Aherte/Aherte/assets/55800601/970740d3-31ee-4b41-8bdb-24fd846cedde)
+Hi 👋, I'm Ahmet Eren Tekin</h1>
 <h3 align="center">A passionate Embedded Software Developer from Turkey</h3>
 
 - 🌱 I’m currently developing **low level sensor drivers and new startup ideas**
