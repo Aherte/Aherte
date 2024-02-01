@@ -1,5 +1,6 @@
 
-<h1 align="center">![602ba5f5d9c03](https://github.com/Aherte/Aherte/assets/55800601/970740d3-31ee-4b41-8bdb-24fd846cedde)
+![602ba5f5d9c03](https://github.com/Aherte/Aherte/assets/55800601/4f1f513d-89e0-4e23-9516-d571b42ced05)
+
   
 Hi 👋, I'm Ahmet Eren Tekin</h1>
 <h3 align="center">A passionate Embedded Software Developer from Turkey</h3>
